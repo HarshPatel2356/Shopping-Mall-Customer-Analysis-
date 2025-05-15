@@ -16,9 +16,6 @@ Python (for data preprocessing and transformation)
 
 Power BI (for dashboard development and visualization)
 
-📁 Files Included:
-Shopping Dashboard.pdf: Exported view of the Power BI dashboard.
-
 🔍 Objective:
 To provide business stakeholders with actionable insights on customer behavior and sales performance to guide strategic decisions in marketing, product stocking, and mall-level operations.
 
